@@ -2,11 +2,15 @@
 
 Bienvenido a este proyecto de **Power BI**! 🚀 Aquí encontrarás un dashboard interactivo diseñado para visualizar datos clave y apoyar la toma de decisiones a través de visualizaciones intuitivas.
 
+![Imagen Principal](image.png)
+
 ---
 
 ## 📝 Descripción del Proyecto
 
 Este dashboard ha sido creado para ofrecer una vista clara y detallada de métricas y KPIs relevantes. Los datos provienen de conjunto de datos proporcionado por la comisión del curso Coderhouse para fines educativos y de análisis. Estos, han sido limpiados y transformados para su visualización. Con funcionalidades como filtros dinámicos y gráficos interactivos.
+
+![Detalle de ventas](image-1.png)
 ---
 
 ## 📂 Estructura del Proyecto
